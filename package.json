@@ -1,0 +1,16 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "main": "src/Main",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/Main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
